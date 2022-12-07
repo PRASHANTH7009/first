@@ -1,0 +1,2 @@
+from my btech i started learning ml, and my role at cognizant involved working with sensor operated devices there i came to know the importance of ai in maintainning sensor operated devices 
+therefore i want to learn about deep learning so pursuing my masters in information systrms with specalization in intelligent systems i can 
